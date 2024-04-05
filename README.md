@@ -5,7 +5,7 @@
 
 ## DEPENDENCIES AND STEPS FOR RUNNING THIS PROJECT
 ```bash
-pip insall virtualenv
+pip install virtualenv
 ```
 
 ```bash
